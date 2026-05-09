@@ -1,0 +1,4 @@
+interface:
+  display_name: "LARPGame Builder"
+  short_description: "Generate playable mystery games for workshops"
+  default_prompt: "Use $larpgame-builder to create a complete 6-player mystery game for a team-building workshop."

@@ -1,9 +1,9 @@
 ---
-name: scripted-mystery-builder
+name: larpgame-builder
 description: Generate complete playable scripted mystery / murder-mystery-style social deduction games for team building, training courses, classrooms, workshops, offline interest groups, corporate simulations, and themed events. Use when the user asks to create a 剧本杀, mystery game, social deduction game, role-based investigation game, workshop game, training scenario, team-building case, host script, character scripts, evidence cards, clue cards, or printable game materials from a short goal, theme, industry, lesson, or event context.
 ---
 
-# Scripted Mystery Builder
+# LARPGame Builder
 
 ## Core Promise
 
